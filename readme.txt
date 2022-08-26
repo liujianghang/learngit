@@ -13,4 +13,4 @@ Git tracks changes.
 sudo
 sudo
 sudo
-
+Git tracks sudo.
