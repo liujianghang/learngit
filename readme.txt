@@ -3,3 +3,5 @@ Git is free software distributed under the GPL.
 Git is cool.
 Git tracks changes.
 sudo
+sudo
+sudo
